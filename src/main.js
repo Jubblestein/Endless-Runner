@@ -1,5 +1,5 @@
 // Justin Fogo
-// [Title]
+// Rat Run!
 // An endless runner w/ objects to dodge and collectibles
 // Created: 2/19/26
 
@@ -18,7 +18,7 @@ const config = {
             debug: true
         }
     },
-    scene: [],
+    scene: [ Load ],
 };
 
 // define game
