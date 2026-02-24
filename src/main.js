@@ -18,7 +18,7 @@ const config = {
             debug: true
         }
     },
-    scene: [ Load ],
+    scene: [ Load, Title ],
 };
 
 // define game
@@ -30,4 +30,4 @@ const textBorder = 64;
 
 let timeScore;
 let cheeseScore;
-let cursors;
+let keySPACE;
