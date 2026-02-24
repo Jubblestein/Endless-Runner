@@ -1,5 +1,10 @@
 // Justin Fogo
 // Rat Run!
+// ~12 hours spent
+// Audio: https://opengameart.org/content/funny-chase-8-bit-chiptune
+//        https://opengameart.org/content/meowing-cat-made-in-labchirp
+//        https://opengameart.org/content/mouse-imitation
+// Font:  https://www.dafont.com/upheaval.font
 // An endless runner w/ objects to dodge and collectibles
 // Created: 2/19/26
 
